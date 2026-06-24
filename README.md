@@ -1,7 +1,5 @@
 # 🎮 System.out.println("Olá, mundo! Sou a Maria Luiza"); 👋
 
-# 🎮 System.out.println("Olá, mundo! Sou a Maria Luiza"); 👋
-
 ```python
 class MariaLuiza:
     def __init__(self):
@@ -27,10 +25,7 @@ Decidi fazer uma transição de carreira interna e entrei de cabeça em Análise
 
     Ambiente de Quest:
 
-    Sistema Operacional:
-
 📊 Status de Player (GitHub Stats)
 
-    💡 "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
-
+    💡 "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem." >
     📫 Quer conversar sobre código ou lógica? O repositório está aberto!
