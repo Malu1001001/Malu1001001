@@ -29,3 +29,5 @@ Decidi fazer uma transição de carreira interna e entrei de cabeça em Análise
 
     💡 "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem." > 📫 Quer conversar sobre código ou lógica? O repositório está aberto!
 
+<!-- Python -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
