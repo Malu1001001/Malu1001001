@@ -1,6 +1,3 @@
-| Linguagem Principal | Versionamento | Ferramentas & OS |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |
 # 🎮 System.out.println("Olá, mundo! Sou a Maria Luiza"); 👋
 
 ```python
